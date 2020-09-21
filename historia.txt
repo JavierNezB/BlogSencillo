@@ -1,3 +1,7 @@
 Esto es una historia mia de como aprender a usar git
 
 vamos iniciando en Esto.
+
+Creo que vamos bien :D
+
+ya casi es la platzi conf
