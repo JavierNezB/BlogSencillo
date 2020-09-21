@@ -1,1 +1,3 @@
-Esto es una historia de como aprender a usar git
+Esto es una historia mia de como aprender a usar git
+
+vamos iniciando en Esto.
