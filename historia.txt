@@ -1,4 +1,5 @@
-Esto es una historia mia de como aprender a usar git
+
+Me atrase un poco en esto pero, Esto es una historia mia de como aprender a usar git
 
 vamos iniciando en Esto.
 
