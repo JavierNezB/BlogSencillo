@@ -1,17 +1,3 @@
+Esto es una historia de como aprender a usar git
 
-Me atrase un poco en esto pero, Esto es una historia mia de como aprender a usar git
-
-vamos iniciando en Esto.
-
-Creo que vamos bien :D jajajaja
-
-ya casi es la platzi conf, muy emosionado
-
-ya fue la platziconf muy emosionante y apasionadoooo
-
-
-esta linea la agregamos pero no sera modificada
-
-esta otra linea la agregamos y sera modificadaaaa
-
-haciendo una modificacion en la linea 6, esta fue una modificacion 
+se actualizo todo habia antes algo.
